@@ -1,0 +1,35 @@
+body {
+    background: linear-gradient(to right, darkblue 50%, skyblue); 
+}
+
+#header1 {
+    background-color: darkblue;
+}
+
+#header {
+    background: linear-gradient(to right, darkblue 50%, white);
+}
+
+#body {
+    background: linear-gradient(to right, darkblue 50%, skyblue);
+}
+
+#footer {
+    background: linear-gradient(to right, darkblue 50%, skyblue);
+}
+
+#textDescripcion {
+    color: white;
+}
+
+.block {
+    color: DeepSkyBlue;
+}
+
+#facebook:hover {
+    cursor: pointer;
+}
+
+#twitter:hover {
+    cursor: pointer;
+}
